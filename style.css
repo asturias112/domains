@@ -31,21 +31,21 @@ body{
     border-radius: 10px;
 }
 .domains a{
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(76 0 92);
     padding: 10px;
     margin: 10px;
     font-size: 25px;
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
     text-decoration: none;
     font-weight: bolder;
-    border: 3px solid #000000;
-    border-radius: 10px;
+    border: 3px solid #de74f3;
+    border-radius: 20px;
 }
 .domains a:hover{
-    background-color: black;
-    color: white;
+    background-color: aqua;
+    color: black;
     transition: 0.3s;
-    border: 3px solid #ffffff;
+    border: 3px solid #03a9f4;
 }
 .domains p{
     font-style: normal;

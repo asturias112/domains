@@ -23,6 +23,7 @@ body{
     font-family: 'Monoton', cursive;
     font-size:85px;
     font-weight: 100;
+    text-shadow: 9px 9px 1px black;
     color: rgb(255 198 95);
     padding: 10px;
 

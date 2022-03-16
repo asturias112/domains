@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="shortcut icon" href="Hash3.png" type="image/png">
+    <title>ᗯ</title>
+</head>
+<body class="bg">
+    <div class="head">
+        <h1>ᗯ</h1>
+    </div>
+    <div class="domains">
+        <a href="combo.html" target="_blank">Double Emojis</a>
+        <a href="greek.html" target="_blank">Greek words</a>
+        <a href="russian.html" target="_blank">Russian words</a>
+        <a href="double.html" target="_blank">ZWJ Twin Emojis</a>
+        <a href="premium.html" target="_blank">Premium</a>
+        <a href="cool.html" target="_blank">Cool</a>
+        <a href="short.html" target="_blank">Short</a>
+        <a href="emoji.html" target="_blank">Regular Emojis</a>
+        <a href="emojitxt.html" target="_blank">Emoji + Text</a>
+        <a href="zwjquad.html" target="_blank">ZWJ Quadruple Emojis</a>
+    </div>
+</body>
+</html>

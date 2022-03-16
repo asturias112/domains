@@ -1,11 +1,11 @@
-/* @import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap'); */
-@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=Questrial&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Questrial&display=swap');
 *{
     /* font-family: 'Rubik', sans-serif; */
-    font-family: 'JetBrains Mono', monospace;
+   font-family: 'Questrial', sans-serif;
 }
 body{ 
-    background: url(./bg.svg) no-repeat center fixed; 
+    background: url(./back.svg) no-repeat center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;

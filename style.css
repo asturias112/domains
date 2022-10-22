@@ -1,11 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Monoton&family=Questrial&display=swap');
 
 body{ 
-    background: url(./back.svg) no-repeat center fixed; 
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
+background-color: black;
 }
 .head, .nego, .domains{
     display: flex;
@@ -41,13 +37,13 @@ body{
     font-weight: bold;
 }
 table{
-    font-size: 24px;
+    font-size: 20px;
     color: white;
 }
 td{
     margin-top:20px;
 }
 a{
-   font-size: 24px;
+   font-size: 20px;
     color:white;
 }

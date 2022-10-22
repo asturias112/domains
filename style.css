@@ -33,7 +33,6 @@ body{
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
-    padding: 20px;
 }
 .HNS{
     font-size: 30px;
@@ -44,6 +43,9 @@ body{
 table{
     font-size: 18px;
     color: white;
+}
+tr{
+    margin:20px;
 }
 a{
    font-size: 18px;

@@ -12,13 +12,6 @@ body{
     flex-direction: column;
     align-items: center;
 }
-.nego p{
-    color: rgb(0, 0, 0);
-    background-color: white;
-    border: 3px solid #000000;
-    padding: 10px;
-    font-weight: bolder;
-}
 .head h1{
     font-family: 'Monoton', cursive;
     font-size:55px;
@@ -27,31 +20,6 @@ body{
     color: rgb(255 165 0);
     padding: 10px;
 
-}
-.domains a{
-font-family: 'Questrial', sans-serif;
-    background-color: rgb(76 0 92);
-    padding: 10px;
-    margin: 10px;
-    font-size: 25px;
-    color: rgb(255, 255, 255);
-    text-decoration: none;
-    font-weight: bolder;
-    border: 3px solid #de74f3;
-    border-radius: 20px;
-}
-.domains a:hover{
-font-family: 'Questrial', sans-serif;
-    background-color: aqua;
-    color: black;
-    transition: 0.3s;
-    border: 3px solid #03a9f4;
-}
-.domains p{
-font-family: 'Questrial', sans-serif;
-    font-style: normal;
-    font-weight:500;
-    font-size: 20px;
 }
 #desc{
     font-style: italic;
@@ -75,4 +43,8 @@ font-family: 'Questrial', sans-serif;
 table{
     font-size: 18px;
     color: white;
+}
+a{
+   font-size: 18px;
+    color:white;
 }

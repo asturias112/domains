@@ -41,13 +41,13 @@ body{
     font-weight: bold;
 }
 table{
-    font-size: 18px;
+    font-size: 24px;
     color: white;
 }
-tr{
-    margin:20px;
+td{
+    margin-top:20px;
 }
 a{
-   font-size: 18px;
+   font-size: 24px;
     color:white;
 }

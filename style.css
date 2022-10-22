@@ -33,6 +33,7 @@ body{
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
+    padding: 20px;
 }
 .HNS{
     font-size: 30px;
